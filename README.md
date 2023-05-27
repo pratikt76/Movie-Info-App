@@ -1,3 +1,3 @@
 ﻿# Movie-Info-App
 
-Movie info app using HTML, CSS, JS => Just TP 😂
+Movie info app using HTML, CSS, JS
